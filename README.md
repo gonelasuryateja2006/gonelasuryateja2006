@@ -1,6 +1,6 @@
 <!-- HEADER & TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+GONELA SURYA TEJA;Java+Developer;Open+Source+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+GONELASURYATEJA;Java+Developer;Open+Source+Explorer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
