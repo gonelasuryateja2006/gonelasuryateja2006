@@ -1,4 +1,4 @@
-# Hi, I'm GONELASURYATEJA
+# Hi, I'm GONELA SURYA TEJA
 
 Computer Science student interested in building software and exploring next-generation technologies.
 
