@@ -1,51 +1,27 @@
-<!-- HEADER & TYPING ANIMATION -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Hi+there!+I'm+GONELASURYATEJA;Java+Developer;Open+Source+Explorer" alt="Typing SVG" />
-</h1>
+# Hi, I'm GONELASURYATEJA
 
-<p align="center">
-  <i>Welcome to my GitHub profile! I'm passionate about building software and exploring backend development.</i>
+Computer Science student interested in building software and exploring next-generation technologies.
+
+## 🌐 Socials:
+
+[![Instagram]
+[![LinkedIn]
+
+## 💻 Tech Stack:
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
----
+## 📂 Projects
 
-<!-- ABOUT ME & QUICK STATS -->
-### 💫 About Me
-
-- 🔭 Currently working on building **Java** applications and foundational projects.
-- 🌱 Learning about **Data Structures, Algorithms, and System Design**.
-- 🛠️ Tools & Tech: **Git, GitHub, Java, Linux**.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com) or via email.
-
----
-
-<!-- TECH STACK BADGES -->
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-<!-- GITHUB STATS CARDS -->
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<!-- PROFILE VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=bluestyle=flat-square" alt="Profile Views" />
-</p>
+- **encryption-hashing-project** — A application focused on data security, cryptographic algorithms, and hashing implementations.
+- **Delicia-Multi-Cuisine-Restaurant** — A web project designed for managing restaurant dining options, menus, and ordering features.
+- **STUDY-APP** — An application designed to help students organize learning materials, manage coursework, and track study progress.
