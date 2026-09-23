@@ -22,6 +22,7 @@ Computer Science student interested in building software and exploring next-gene
 
 ## 📂 Projects
 
+
 - **encryption-hashing-project** — A application focused on data security, cryptographic algorithms, and hashing implementations.
 - **Delicia-Multi-Cuisine-Restaurant** — A web project designed for managing restaurant dining options, menus, and ordering features.
 - **STUDY-APP** — An application designed to help students organize learning materials, manage coursework, and track study progress.
