@@ -1,8 +1,8 @@
 # Hi, I'm GONELA SURYA TEJA
-Currently pursuing:
+#Currently pursuing:
 
-B.Tech Computer Science & Engineering — SRM IST
-Computer Science student interested in building software and exploring next-generation technologies.
+#B.Tech Computer Science & Engineering — SRM IST
+#Computer Science student interested in building software and exploring next-generation technologies.
 
 ## 🌐 Socials:
 
