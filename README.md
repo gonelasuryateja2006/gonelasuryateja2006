@@ -27,4 +27,4 @@ Computer Science student interested in building software and exploring next-gene
 - **encryption-hashing-project** — A application focused on data security, cryptographic algorithms, and hashing implementations.
 - **Delicia-Multi-Cuisine-Restaurant** — A web project designed for managing restaurant dining options, menus, and ordering features.
 - **STUDY-APP** — An application designed to help students organize learning materials, manage coursework, and track study progress.
-- **Pharmacy Management System**-A desktop application for maintaining medicine records, customer or hospital addresses, and generating PDF documents.
+- **Pharmacy Management System**-A Python desktop application for maintaining medicine records, customer or hospital addresses, and generating PDF documents.
